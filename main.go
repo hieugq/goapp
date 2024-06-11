@@ -5,6 +5,5 @@ import (
 )
 
 func main() {
-	http
 	fmt.Println("Hello World")
 }
